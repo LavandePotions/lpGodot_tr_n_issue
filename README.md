@@ -1,7 +1,7 @@
 # lpGodot_tr_n_issue
 
 Project created to show off an issue in Godot Game Engine
-[Godot 4.3 tr_n() issue](github.com)
+[Godot 4.3 tr_n() issue](https://github.com/godotengine/godot/issues/101464)
 
 When an int change : I want Godot to change the translation.
 
