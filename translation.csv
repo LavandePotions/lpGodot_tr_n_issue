@@ -1,0 +1,5 @@
+key,en,es,fr
+BTN_LABEL,+1 coin,+1 coin (es),+1 coin (fr)
+COIN_LABEL_ZERO,no coin,no coin (es),no coin (fr)
+COIN_LABEL_SINGULAR,one coin,one coin (es),one coin (fr)
+COIN_LABEL_PLURAL,many coins,many coins (es),many coins (fr)
